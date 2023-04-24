@@ -1,0 +1,8 @@
+# Files
+*.csv
+
+#folder
+.ipynb_checkpoints/
+.*
+!.gitignore
+*.zip
